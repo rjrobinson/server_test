@@ -1,1 +1,1 @@
-web: server_test
+web: heroku_server
